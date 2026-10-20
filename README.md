@@ -1,4 +1,4 @@
-I'm Stefan Asandei, a highschool student from Romania studying mathematics - computer science. 
+I'm Stefan Asandei, bachelor student at Ecole Polytechnique studying mathematics & computer science. 
 
 <!-- [![](https://visitcount.itsvg.in/api?id=stefanasandei&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in) -->
 
